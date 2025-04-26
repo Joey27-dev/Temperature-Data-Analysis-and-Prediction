@@ -1,4 +1,4 @@
-Temperature Data Analysis and Prediction
+**Temperature Data Analysis and Prediction**
 
 Project Overview
 This project focuses on analyzing a large dataset of temperature readings (indoor and outdoor) collected across ~97,000 records.
