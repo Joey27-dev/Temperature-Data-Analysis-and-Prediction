@@ -1,13 +1,12 @@
 **Temperature Data Analysis and Prediction**
 
 Project Overview
-This project focuses on analyzing a large dataset of temperature readings (indoor and outdoor) collected across ~97,000 records.
-The aim was to perform data analysis, build machine learning models, and conduct future predictions based on the observed trends.
+This project focuses on analyzing a large dataset of temperature readings (indoor and outdoor) collected across ~97,000 records. The aim was to perform data analysis, build machine learning models, and conduct future predictions based on the observed trends.
 
 Data Description
-Temp_ID: Unique identifier for each reading.
-Indoor Temperature: Indoor temperature measurement (in °C).
-Outdoor Temperature: Outdoor temperature measurement (in °C).
+- Temp_ID: Unique identifier for each reading. (Type: int)
+Indoor Temperature: Indoor temperature measurement (in °C). (Type: int)
+Outdoor Temperature: Outdoor temperature measurement (in °C). (Type: int)
 
 The dataset contains approximately 97,000 records, providing a rich base for analysis and modeling.
 
